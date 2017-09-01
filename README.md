@@ -11,8 +11,17 @@ my-app/
     index.html
     favicon.ico
   src/
+    Components/
+      LeftMenu.js
+      Subtitle.js
+      Tile.js
+      Title.js
+    Containers/
+      Header.js
+    Styles/
+      styles.js
     App.css
-    App.js #where the magic happens
+    App.js 
     App.test.js
     index.css
     index.js
