@@ -1,4 +1,7 @@
 # Stanza Take Home Assignment
+## Goal
+To make a functioning webpage which replicates [https://www.stanza.dance/@livenation?embed=true](https://www.stanza.dance/@livenation?embed=true).  
+*Category switching, past/future events, event links, pagination etc. are not required.*
 
 ## Project Structure
 
